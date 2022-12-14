@@ -1,6 +1,6 @@
 # Write a program to access the 2nd, 4th and 5th elements from the list below:
 
-raw_list = [1, ", a", 2, ", b", 3, " c"]
+raw_list = [1," a" ,2,", b",3," c" ]
 
 
 def dissect(list, x, y, z):
